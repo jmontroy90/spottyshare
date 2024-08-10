@@ -5,7 +5,7 @@
 This project has two overarching goals:
 
 1) Make use of Spotify API data to figure out, roughly speaking, how much overlap countries have in their top 50 user charts over time. This is motivated by the year I spent traveling around Asia, where I would download the Spotify top 50 for each country I arrived in and would find overlap / dissimilarities interesting.
-2) Dust off my development skills as I re-enter the workforce.
+2) Dust off my development skills as I slowly re-enter the workforce.
 
 I don't know exactly what this will end up looking like. It'll probably some kind of relatively simple web service with a TON of bits and bobs attached to it (e.g. local development + testing via Docker and some local data store, fiddling with goreleaser + golangci, maybe CircleCI or Github Actions + ArgoCD, dorking around with some AWS stuff and maybe even Terraform to go with it. I know I wanna explore gRPC, and get back into OpenAPI integrations with Golang, trying out some web service frameworks in the process too. The core code will probably be pretty simple, honestly.
 
