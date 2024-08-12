@@ -2,7 +2,7 @@
 (a.k.a Project "Does everyone like Taylor Swift or just us")
 
 
-This project has two overarching goals:
+This project has two goals:
 
 1) Make use of Spotify API data to figure out, roughly speaking, how much overlap countries have in their top 50 user charts over time. This is motivated by the year I spent traveling around Asia, where I would download the Spotify top 50 for each country I arrived in and would find overlap / dissimilarities interesting.
 2) Dust off my development skills as I slowly re-enter the workforce.
